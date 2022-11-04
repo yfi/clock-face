@@ -1,0 +1,19 @@
+{
+    "name": "clock-face",
+    "version": "1.0.0",
+    "description": "Live SVG Analog Clock Custom Element ",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yfi/clock-face.git"
+    },
+    "author": "yfi",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yfi/clock-face/issues"
+    },
+    "homepage": "https://github.com/yfi/clock-face#readme"
+  }
